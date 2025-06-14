@@ -58,7 +58,7 @@ class PyLine:
         info_branch = get_branch_info()
 
         if not branch_name:
-            branch_name = ''
+            branch_name = '×'
 
         #separator color for integrated with mode
         #section 1
